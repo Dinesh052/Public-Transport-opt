@@ -1,0 +1,16 @@
+route_id,route_short_name,route_long_name,route_desc,route_url,route_color,route_text_color,route_type
+102936,2 West,2 West 11th St via Showers Complex,,,035ebf,fafafa,3
+103046,9,9 IU Campus / College Mall / Covenanter & Clarizz,,,05c5f5,fdfcfc,3
+102905,3 West,3 Highland Village / Curry Pike,,,239504,f9f6f6,3
+102906,4 South,4 High Street / Sherwood Oaks,,,b505f5,f8f7f7,3
+102908,5,5 Sare Road,,,f50a68,faf9f9,3
+102809,1 South,1 South Walnut / Clear Creek Shoppping Center,,,EC0E0E,faf9f9,3
+102904,3 East,3 College Mall / East 3rd Street,,,239504,faf9f9,3
+102907,4 West,4 Bloomfield Road,,,B505F5,f4f0f0,3
+104547,8 Local,8 Eastside Local,"     Route 8 connects persons living in the Hyde Park, Stands, High Street, Park Ridge, 10th Street, and Pete Ellis Drive areas along with those living along Sare Road with the College Mall and Eastland Plaza shopping center. There is no direct service to campus or downtown. Runs every 60 minutes, Monday through Saturday. A regularly scheduled trip on Route 8 leaves the Transit Center on weekdays at 8:10 a.m. to Stonebelt. On request outbound service from The Transit Center to Stonebelt is also available at 7:40 a.m. by calling 336-RIDE by 7:25 a.m. on weekdays.   ",,E98C00,,3
+96342,1 North,1 Fee Lane BHS North,,,ec0e0e,faf9f9,3
+102909,6,6 Campus Shuttle,,,80471C,fafafa,3
+102910,6 Limited,6 Limited,,,4A3738,f4f0f0,3
+102930,7,7 Henderson / Walnut Express,,,f8f11b,0a0a0a,3
+102938,2 South,2 South Rogers,,,035EBF,fcfcfc,3
+102562,10,10 East 10th / IU Health Hospital,,,4ce637,,3

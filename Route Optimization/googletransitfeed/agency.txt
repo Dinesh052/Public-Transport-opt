@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
+,Bloomington Transit,https://bloomingtontransit.com/,US/Eastern,en,8123367433,,customer@bloomingtontransit.com
